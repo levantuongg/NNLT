@@ -1,0 +1,15 @@
+#include <stdio.h>
+
+// Nhập vào một số nguyên bất kỳ và hiển thị thông báo số đó là chẵn hay lẻ.
+
+int main()
+{
+    int chanle; // Khai báo biến.
+        printf("\nNhập vào một số nguyên bất kỳ:\n"); 
+    scanf("%d", &chanle); 
+    // Kiểm tra số nguyên là số chẵn hay lẻ.
+    if(chanle % 2 == 0)
+        printf("%d là số chẵn.\n",chanle); // Hiển thị thông báo nếu số nguyên đó là số chẵn. 
+    else   
+        printf("%d là số lẻ.\n",chanle); // Hiển thị thông báo nếu số nguyên đó là số lẻ.   
+}
