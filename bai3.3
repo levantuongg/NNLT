@@ -1,0 +1,29 @@
+#include <stdio.h>
+
+/**Nhập vào điểm của một học sinh từ 0 đến 10 và hiển thị thông báo theo quy tắc:
+Nếu 9 <= điểm <= 10: Hiển thị thông báo là Xuất sắc.
+Nếu 8 <= điểm < 9: Hiển thị thông báo là Giỏi.
+Nếu 7 <= điểm < 8: Hiển thị thông báo là Khá.
+Nếu 6 <= điểm < 7: Hiển thị thông báo là Trung bình Khá.
+Nếu 5 <= điểm < 6: Hiển thị thông báo là Trung bình.
+Nếu 0 <= điểm < 5: Hiển thị thông báo là Yếu.**/
+
+int main()
+{   
+    int Điểm;//Khai báo biến.
+    printf("\nNhập điểm là các số nguyên từ 0 - 10.\n");
+    scanf("%d",& Điểm); 
+    // Kiểm tra điểm của một học sinh và hiển thị thông báo.
+    if(Điểm >= 9 && Điểm <= 10)
+        printf("Xuất sắc.\n"); // Hiển thị thông báo là Xuất sắc.
+    if(Điểm >= 8 && Điểm < 9) 
+        printf("Giỏi.\n"); // Hiển thị thông báo là Giỏi.
+    if(Điểm >= 7 && Điểm < 8)
+        printf("Khá.\n"); // Hiển thị thông báo là Khá.
+    if(Điểm >= 6 && Điểm < 7)
+        printf("Trung bình khá.\n"); // Hiển thị thông báo là Trung bình Khá.
+    if(Điểm >= 5 && Điểm < 6)
+        printf("Trung bình.\n"); //  Hiển thị thông báo là Trung bình.
+    if(Điểm >= 0 && Điểm < 5)
+        printf("Yếu.\n"); //  Hiển thị thông báo là Yếu.
+}
