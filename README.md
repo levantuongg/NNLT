@@ -20,6 +20,9 @@
 3. [Bài 3](https://www.jdoodle.com/a/5I1O)
 4. [Bài 4](https://www.jdoodle.com/a/5I1R)
 5. [Bài 5](https://www.jdoodle.com/a/5I1S)
+## [Bài 5: Hàm](https://hoctructuyencntt.github.io/NNLT/Bai05.html)
+1. [Bài 1](https://www.jdoodle.com/a/5I1X)
+2. [Bài 2](https://www.jdoodle.com/a/5I1Z)
 # BÀI TẬP NGÀY 26/12/2022
 ## [Mục cấu trúc điều kiện (if, switch):](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 1. [Bài 3](https://www.jdoodle.com/a/5G0Z)
