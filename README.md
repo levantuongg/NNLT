@@ -14,6 +14,12 @@
 2. [Bài 2](https://www.jdoodle.com/a/5I1c)
 3. [Bài 3](https://www.jdoodle.com/a/5I1k)
 4. [Bài 4](https://www.jdoodle.com/a/5I1h)
+## [BTLT](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
+1. [Bài 1](https://www.jdoodle.com/a/5I1K)
+2. [Bài 2](https://www.jdoodle.com/a/5I1M)
+3. [Bài 3](https://www.jdoodle.com/a/5I1O)
+4. [Bài 4](https://www.jdoodle.com/a/5I1R)
+5. [Bài 5](https://www.jdoodle.com/a/5I1S)
 # BÀI TẬP NGÀY 26/12/2022
 ## [Mục cấu trúc điều kiện (if, switch):](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 1. [Bài 3](https://www.jdoodle.com/a/5G0Z)
