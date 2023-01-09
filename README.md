@@ -4,6 +4,7 @@
 2. [Nhập vào một số nguyên bất kỳ và hiển thị thông báo số đó là chẵn hay lẻ.](https://www.jdoodle.com/a/5B2G)
 3. [Nhập vào điểm của một học sinh từ 0 đến 10 và hiển thị thông báo.](https://www.jdoodle.com/a/5B2Q)
 4. [Nhập vào hai số a, b và một ký tự bất kỳ.](https://www.jdoodle.com/a/5B35)
+## [BTLT](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 ## [Bài 4: Các câu lệnh lặp](https://hoctructuyencntt.github.io/NNLT/Bai04.html)
 1. [Bài 1](https://www.jdoodle.com/a/5I1a)
 2. [Bài 2](https://www.jdoodle.com/a/5I1c)
