@@ -8,7 +8,7 @@
 ## [Mục cấu trúc điều kiện (if, switch):](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 - [Bài 3](https://www.jdoodle.com/embed/v0/5G0Z)
 ## [Mục cấu trúc lặp (for, while, do/while):](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
-- [Bài 2](https://www.jdoodle.com/embed/v0/5G18)
-- [Bài 3](https://www.jdoodle.com/embed/v0/5G19)
-# Bài tại lớp:
-- [Cho số nguyên dương n với 10000 <= n <= 99999 được nhập từ bàn phím. In ra màn hình tổng các ký số của n.](https://www.jdoodle.com/embed/v0/5G1Q)
+1. [Bài 2](https://www.jdoodle.com/embed/v0/5G18)
+2. [Bài 3](https://www.jdoodle.com/embed/v0/5G19)
+## [Bài tại lớp:](https://www.jdoodle.com/embed/v0/5G1Q)
+
