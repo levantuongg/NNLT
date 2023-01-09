@@ -10,5 +10,5 @@
 ## [Mục cấu trúc lặp (for, while, do/while):](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 1. [Bài 2](https://www.jdoodle.com/embed/v0/5G18)
 2. [Bài 3](https://www.jdoodle.com/embed/v0/5G19)
-## [Bài tại lớp:](https://www.jdoodle.com/embed/v0/5G1Q)
+- [Bài tại lớp:](https://www.jdoodle.com/embed/v0/5G1Q)
 
