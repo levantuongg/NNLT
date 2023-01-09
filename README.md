@@ -7,7 +7,7 @@
 ## [Bài 4: Các câu lệnh lặp](https://hoctructuyencntt.github.io/NNLT/Bai04.html)
 1. [Bài 1](https://www.jdoodle.com/a/5HAc)
 2. [Bài 2](https://www.jdoodle.com/a/5I1c)
-3. [Bài 3](https://www.jdoodle.com/a/5Dzj)
+3. [Bài 3](https://www.jdoodle.com/a/5I1k)
 4. [Bài 4](https://www.jdoodle.com/a/5I1h)
 # BÀI TẬP NGÀY 26/12/2022
 ## [Mục cấu trúc điều kiện (if, switch):](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
