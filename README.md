@@ -17,6 +17,6 @@
 2. [Bài 3](https://www.jdoodle.com/a/5G19)
 - [Bài tại lớp.](https://www.jdoodle.com/a/5G1Q)
 # BÀI TẬP NGÀY 3/1/2023
-1. [Nhập vào 5 số nguyên bất kỳ từ bàn phím. In ra màn hình dãy số nguyên trên và tổng của chúng.](https://www.jdoodle.com/a/5I1)
+1. [Nhập vào 5 số nguyên bất kỳ từ bàn phím. In ra màn hình dãy số nguyên trên và tổng của chúng.](https://www.jdoodle.com/a/5I1q)
 2. [Viết hàm kiểm tra một số nguyên là chẵn hay lẻ.](https://www.jdoodle.com/a/5I1r)
 3. [Sử dụng hàm câu 2 để tính tổng các số chẵn từ 5 số nguyên câu 1.](https://www.jdoodle.com/a/5HKV)
