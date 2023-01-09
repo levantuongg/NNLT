@@ -4,6 +4,11 @@
 2. [Nhập vào một số nguyên bất kỳ và hiển thị thông báo số đó là chẵn hay lẻ.](https://www.jdoodle.com/a/5B2G)
 3. [Nhập vào điểm của một học sinh từ 0 đến 10 và hiển thị thông báo.](https://www.jdoodle.com/a/5B2Q)
 4. [Nhập vào hai số a, b và một ký tự bất kỳ.](https://www.jdoodle.com/a/5B35)
+## [Bài 4: Các câu lệnh lặp](https://hoctructuyencntt.github.io/NNLT/Bai04.html)
+1. [Bài 1](https://www.jdoodle.com/a/5HAc)
+2. [Bài 2](https://www.jdoodle.com/a/5I1c)
+3. [Bài 3]
+4. [Bài 4](https://www.jdoodle.com/a/5I1h)
 # BÀI TẬP NGÀY 26/12/2022
 ## [Mục cấu trúc điều kiện (if, switch):](https://hoctructuyencntt.github.io/NNLT/Baitap.html)
 1. [Bài 3](https://www.jdoodle.com/a/5G0Z)
