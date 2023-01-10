@@ -34,3 +34,5 @@
 1. [Nhập vào 5 số nguyên bất kỳ từ bàn phím. In ra màn hình dãy số nguyên trên và tổng của chúng.](https://www.jdoodle.com/a/5I1q)
 2. [Viết hàm kiểm tra một số nguyên là chẵn hay lẻ.](https://www.jdoodle.com/a/5I1r)
 3. [Sử dụng hàm câu 2 để tính tổng các số chẵn từ 5 số nguyên câu 1.](https://www.jdoodle.com/a/5HKV)
+# THI
+[Bài Thi]https://www.jdoodle.com/embed/v0/5I4q
